@@ -1,0 +1,61 @@
+body{
+	background-image: url(https://i.pinimg.com/736x/56/04/94/560494d01d398da03fca5aeb83116da2.jpg);
+	background-size: cover;
+	background-repeat: repeat;
+	color: #5a3a78;
+
+}
+
+#nav
+{
+	background-image: url(https://i.pinimg.com/736x/73/85/b6/7385b6edd69d0d814030bc335e203424.jpg);
+	background-size: cover;
+	background-repeat: repeat;
+}
+#introduction{
+	                  
+	box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
+	border: 1px solid gray;      
+	color: blue;
+	padding:10px;
+	width:95%;
+	margin-left:auto;
+	margin-right:auto;
+	background-color: #ddccff;  
+	background-image: url(https://i.pinimg.com/1200x/cd/e4/8f/cde48f4630d59d10115137568475e6b4.jpg);  
+	font-size: 20px;   
+	background-repeat: repeat;      
+
+}
+
+#aboutme
+{
+	background-image: url(https://i.pinimg.com/1200x/29/ce/ce/29cece50770b88fa7a8b36de11208d1b.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding:10px;
+	width:95%;
+	height: auto;
+	margin-left:auto;
+	margin-right:auto;
+	box-shadow: 0 6px 12px rgba(63, 13, 18);
+
+	font-size: 19px;
+}
+
+#contact
+{
+	background-image: url(https://i.pinimg.com/736x/32/28/d6/3228d6d8b4add513a1d6b4764ffee860.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding:10px;
+	width:95%;
+	height: auto;
+	margin-left:auto;
+	margin-right:auto;
+	box-shadow: 0 6px 12px rgba(63, 13, 18);
+
+	font-size: 19px;
+}
+
+
